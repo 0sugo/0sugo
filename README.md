@@ -2,14 +2,16 @@
  <h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm Joseck Osugo</h3>
 
-> A passionate full-stack developer from Nairobi,Kenya.
+> A passionate full-stack developer from Nairobi,Kenya  👀 .
 
-> 👀 I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> functional and human-centered solutions for the web and I'm currently enrolled at Microverse and learning to be a professional full stack developer.
-> 
-> 👨‍💻 Find all my projects at: [The briefcase](https://github.com/0sugo?tab=repositories)<br>
-
+>I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> functional and human-centered solutions for the web.
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://0sugo.github.io/portfolio_mobile_view/)<br>
+> I'm currently enrolled at Microverse learning to be a professional full stack developer.
+> 
+> 👨‍💻 Find all my projects at: [↘︎The briefcase](https://github.com/0sugo?tab=repositories)<br>
+
+
 > 📫 Find me on: <br>
 [↘︎Email](mailto:josugo38@gmail.com)
 [↘︎Linkedin](https://www.linkedin.com/in/joseck-osugo-873b0618a/) 
