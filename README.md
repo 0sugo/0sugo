@@ -4,7 +4,7 @@
 
 > A passionate full-stack developer from Nairobi,Kenya  👀 .
 
->I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> functional and human-centered solutions for the web.
+>I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> functional and human-centered solutions for the web.<br>
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://0sugo.github.io/portfolio_mobile_view/)<br>
 > I'm currently enrolled at Microverse learning to be a professional full stack developer.
