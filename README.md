@@ -9,7 +9,7 @@
 [↘︎Portfolio](https://0sugo.github.io/portfolio_mobile_view/)<br>
 > I'm currently enrolled at Microverse learning to be a professional full stack developer.
 > 
-> 👨‍💻 Find all my projects at: [↘︎The briefcase](https://github.com/0sugo?tab=repositories)<br>
+> 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 
 
 > 📫 Find me on: <br>
