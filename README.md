@@ -12,7 +12,7 @@
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 
 
-> 📫 Find me on: <br>
+> 📫 Connect with me on:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> <br>
 [↘︎Email](mailto:josugo38@gmail.com)
 [↘︎Linkedin](https://www.linkedin.com/in/joseck-osugo-873b0618a/) 
 [↘︎Twitter](https://twitter.com/osugo5) 
