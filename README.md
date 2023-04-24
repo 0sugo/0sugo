@@ -24,8 +24,12 @@
 
 <hr>
 
- <h3 align="center">Certificates & Licenses</h3>
-<img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858"></img>
+ <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
+ <p style="width:20px">
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775"></img>
+</p>
+
 
 <!--
 **0sugo/0sugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
