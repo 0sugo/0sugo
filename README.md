@@ -14,7 +14,8 @@
 > 📫 Connect with me on:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> <br>
 [↘︎Email](mailto:josugo38@gmail.com)
 [↘︎Linkedin](https://www.linkedin.com/in/joseck-osugo/) 
-[↘︎Twitter](https://twitter.com/osugo5) 
+[↘︎Twitter](https://twitter.com/osugo5)
+[↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=0sugo&style=for-the-badge&label=PROFILE+VISITORS">
