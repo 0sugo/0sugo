@@ -18,7 +18,6 @@
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
-[↘︎Wellfound](https://wellfound.com/u/joseck-osugo
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
