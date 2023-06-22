@@ -3,7 +3,6 @@
 , I'm Joseck Osugo</h3>
 , I'm Joseck Osugo</h3>
 , I'm Joseck Osugo</h3>
-, I'm Joseck Osugo</h3>
 
 >👀  A passionate full-stack developer from Nairobi,Kenya.
 >I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
