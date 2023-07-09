@@ -16,8 +16,6 @@
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Email](mailto:josugo38@gmail.com)
 [↘︎Twitter](https://twitter.com/osugo5)
-[↘︎Twitter](https://twitter.com/osugo5)
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=0sugo&style=for-the-badge&label=PROFILE+VISITORS">
  
