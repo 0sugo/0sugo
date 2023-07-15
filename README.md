@@ -10,7 +10,6 @@
 > 
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
-> 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 
 
 > 📫 Connect with me on:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> <br>
