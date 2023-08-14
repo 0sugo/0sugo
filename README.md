@@ -24,11 +24,11 @@
 
  <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
  <div style="display: flex; justify-content: center;">
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858" width="180"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775" width="180"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440096" width="180"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77337429" width="180"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785465" width="180"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858" width="160"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775" width="160"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440096" width="160"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77337429" width="160"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785465" width="160"></img>
  
 </div>
 
