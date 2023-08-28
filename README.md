@@ -1,6 +1,6 @@
 <img align="right" width="500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
  <h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-, I'm Joseck Osugo</h3>qwertyui
+, I'm Joseck Osugo</h3>qwertyu
 
 >👀  A passionate full-stack developer from Nairobi, Kenya.
 >I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
