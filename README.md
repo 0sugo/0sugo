@@ -29,6 +29,7 @@
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440096" width="160"></img>
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77337429" width="160"></img>
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785465" width="160"></img>
+ <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81191794" width="160"></img>
  
 </div>
 
