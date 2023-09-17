@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=0sugo&style=for-the-badge&label=PROFILE+VISITORS">
  
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=0sugo)](https://git.io/streak-stats)
+
 <hr>
 
  <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
