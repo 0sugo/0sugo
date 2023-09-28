@@ -25,7 +25,6 @@
 <hr>
 <hr>
 <hr>
-<hr>
  <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
  <div style="display: flex; justify-content: center;">
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858" width="130"></img>
