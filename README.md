@@ -7,7 +7,6 @@
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://osugo.netlify.app/)<br>
 > I'm currently enrolled at Microverse learning to be a professional full-stack developer.
-> 🔭 I’m currently working on a Point-of-sale system for a bar and restaurant in Kenya.
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 
 > 📫 Connect with me on:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> <br>
