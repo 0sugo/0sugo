@@ -19,7 +19,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=0sugo&style=for-the-badge&label=PROFILE+VISITORS">
 </p>
-kkn
 <hr>
  <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
  <div style="display: flex; justify-content: center;">
