@@ -2,7 +2,6 @@
  <h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm Joseck Osugo</h3>
 >
->
 >👀  A passionate full-stack developer from Nairobi, Kenya.
 >I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
 > Feel free to check my portfolio:
