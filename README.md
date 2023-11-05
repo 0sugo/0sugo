@@ -4,7 +4,6 @@
 >
 >
 >
->
 >👀  A passionate full-stack developer from Nairobi, Kenya.
 >I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
 > Feel free to check my portfolio:
