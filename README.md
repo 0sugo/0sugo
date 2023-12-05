@@ -4,16 +4,21 @@
 
 >👀  A passionate full-stack developer from Nairobi, Kenya.
 >I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
+
+> 🌱 I’m currently learning Python Django 🐍
+> 
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://osugo.netlify.app/)<br>
-> I'm currently enrolled at Microverse learning to be a professional full-stack developer.
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
+
+> 🌟 Proudly ranked top GitHub contributors in Kenya
+>  according to [![My GitHub Rank in Kenya](https://user-badge.committers.top/kenya/0sugo.svg)](https://user-badge.committers.top/kenya/0sugo).
+
 
 > 🔭 I’m currently working on a Point-of-sale system for a bar and restaurant in Kenya. STAY TUNED!
 
-> 🌱 I’m currently learning Python Django 🐍
 
-> 📫 Connect with me on:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> <br>
+> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50"> Connect with me on: <br>
 [↘︎Linkedin](https://www.linkedin.com/in/joseck-osugo/) 
 [↘︎Wellfound](https://wellfound.com/u/joseck-osugo)
 [↘︎Email](mailto:josugo38@gmail.com)
@@ -21,12 +26,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0sugo&style=for-the-badge&label=PROFILE+VISITORS">
-</p>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/kenya/0sugo">
-    <img src="https://user-badge.committers.top/kenya/0sugo.svg">
-  </a>
 </p>
 
 <hr>
