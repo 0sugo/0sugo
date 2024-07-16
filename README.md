@@ -2,17 +2,21 @@
  <h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm Joseck Osugo</h3>
 
->👀  A passionate full-stack developer from Nairobi, Kenya.
->I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
+> A passionate full-stack developer based in Nairobi, Kenya.
+> I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
+<!--
 
-> 🌱 I’m currently learning Python Django 🐍
+> 🌱 Part time taking Security with a bias in Security analysis🐍
+-->
+>
+> ⚡ Taking on Security Analysis just for fun 🎲
 > 
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://osugo.netlify.app/)<br>
 > 👨‍💻 Find all my projects at: [↘︎My briefcase](https://github.com/0sugo?tab=repositories)<br>
 
 > 🌟 Proudly ranked top GitHub contributors in Kenya
->  according to [![My GitHub Rank in Kenya](https://user-badge.committers.top/kenya/0sugo.svg)](https://user-badge.committers.top/kenya/0sugo).
+>  according to [![My GitHub Rank in Kenya](https://user-badge.committers.top/kenya/0sugo.svg)](https://user-badge.committers.top/kenya/0sugo)
 
 
 > 🔭 I’m currently working on a Point-of-sale system for a bar and restaurant in Kenya. STAY TUNED!
@@ -30,15 +34,15 @@
 
 <hr>
  <h3 align="center" style="display: flex; justify-content: center;">Certificates & Licenses</h3>
- <div style="display: flex; justify-content: center;">
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858" width="130"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775" width="130"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440096" width="130"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77337429" width="130"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785465" width="130"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740620" width="130"></img>
- 
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center; overflow-x: auto;">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70100858" width="130" alt="Certificate 1">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351775" width="130" alt="Certificate 2">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440096" width="130" alt="Certificate 3">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/77337429" width="130" alt="Certificate 4">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79785465" width="130" alt="Certificate 5">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740620" width="130" alt="Certificate 6">
 </div>
+
 
 
 <!--
