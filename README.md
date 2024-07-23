@@ -9,7 +9,7 @@
 > 🌱 Part time taking Security with a bias in Security analysis🐍
 -->
 >
-> ⚡ Taking on Security Analysis just for fun 🎲
+> ⚡ Taking Security Analysis just for fun 🎲
 > 
 > Feel free to check my portfolio:
 [↘︎Portfolio](https://osugo.netlify.app/)<br>
