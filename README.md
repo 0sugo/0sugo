@@ -1,6 +1,11 @@
-<img align="right" width="500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
+<!--
+ <img align="right" width="500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"> -->
+ <img align="right" width="500" src="https://github.com/user-attachments/assets/5468492f-e9aa-4b9b-8b2b-362de9411fc4">
+
+
  <h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm Joseck Osugo</h3>
+
 
 > A passionate full-stack developer based in Nairobi, Kenya.
 > I build <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> functional and human-centered solutions for the web.<br>
